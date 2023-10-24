@@ -7,15 +7,15 @@ The code is a bit of a mess at the moment, but generally things are handeled by 
 
 Keybinds:
 
-A/D | Left/Right Arrows : Go left or right
+> A/D | Left/Right Arrows : Go left or right
 
-J/K/L : Activate red, green, and blue forms respectively. Requires 5 energy.
+> J/K/L : Activate red, green, and blue forms respectively. Requires 5 energy.
 
-I : Activate form power. Uses 1 energy.
+> I : Activate form power. Uses 1 energy.
 
-Space: Activate ultimate ability (nuke). Consumes 5 energy from all colors.
+> Space: Activate ultimate ability (nuke). Consumes 5 energy from all colors.
 
-1/2/3: Cheats: Increase red/green/blue energy respectively.
+> 1/2/3: Cheats: Increase red/green/blue energy respectively.
 
 Changes made from requested document:
 
